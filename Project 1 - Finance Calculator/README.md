@@ -6,6 +6,7 @@ Monthly & Yearly Income Calculation: Calculates gross and net monthly and yearly
 Tax Deduction: Computes tax deductions based on an inputted tax rate.
 Expense Deduction: Deducts essential expenses (rent, food, bills, and entertainment) from the monthly income.
 Currency Customization: Allows users to input their currency symbol, which is reflected in the output.
+
 How to Use
 Run the Script: Open and execute the script in a Python environment.
 Input Required Information:
